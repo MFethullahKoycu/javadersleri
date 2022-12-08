@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author air
- *
- */
-module GithubDersleri {
-}
